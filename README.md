@@ -11,6 +11,6 @@ open http://localhost:8080
 
 Publish image to quay.
 ```sh
-docker tag demo-app quay.io/ovrclk/demo-app
-docker push quay.io/ovrclk/demo-app
+docker tag demo-app github.com/akash-network/demo-app
+docker push github.com/akash-network/demo-app
 ```
